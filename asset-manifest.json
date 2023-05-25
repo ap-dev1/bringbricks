@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bringbricks/static/css/main.073c9b0a.css",
+    "main.js": "/bringbricks/static/js/main.04ff1a4e.js",
+    "static/js/787.4b82d51a.chunk.js": "/bringbricks/static/js/787.4b82d51a.chunk.js",
+    "static/media/logo.svg": "/bringbricks/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bringbricks/index.html",
+    "main.073c9b0a.css.map": "/bringbricks/static/css/main.073c9b0a.css.map",
+    "main.04ff1a4e.js.map": "/bringbricks/static/js/main.04ff1a4e.js.map",
+    "787.4b82d51a.chunk.js.map": "/bringbricks/static/js/787.4b82d51a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.04ff1a4e.js"
+  ]
+}
